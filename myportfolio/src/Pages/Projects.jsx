@@ -43,7 +43,7 @@ const projects = [
         role: 'Full Stack Developer',
         description: 'Income/expense tracker with dashboards, built with React, Recharts, Express & MongoDB.',
         img: '/portfolio/portfolio.png',
-        link: 'https://github.com/Lumino-Technology/Business-Accounting-Software',
+        link: 'https://manoj-sunar-portfolio.onrender.com/',
     },
 ];
 
