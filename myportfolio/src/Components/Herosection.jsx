@@ -10,7 +10,7 @@ const Herosection = () => {
   return (
     <section
       id="home"
-      className="min-h-screen flex flex-col items-center justify-center px-6 text-center bg-white dark:bg-gray-900"
+      className="min-h-screen flex flex-col items-center justify-center px-6 text-center bg-white dark:bg-black"
     >
       <motion.h1
         initial={{ opacity: 0, y: 20 }}

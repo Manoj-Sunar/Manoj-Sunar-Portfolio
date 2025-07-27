@@ -4,7 +4,7 @@ import { Mail, Phone, MapPin, Github, Globe } from 'lucide-react';
 
 const ContactPage = () => {
     return (
-        <section className="px-4 py-30 bg-white dark:bg-gray-900 text-gray-900 dark:text-white">
+        <section className="px-4 py-30 bg-white dark:bg-black text-gray-900 dark:text-white">
             <motion.div
                 initial={{ opacity: 0, y: 40 }}
                 animate={{ opacity: 1, y: 0 }}

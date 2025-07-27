@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 const Education = () => {
   return (
-    <section className="bg-white dark:bg-gray-900 px-4 py-30">
+    <section className="bg-white dark:bg-black px-4 py-30">
       <motion.div
         initial={{ opacity: 0, y: 30 }}
         animate={{ opacity: 1, y: 0 }}

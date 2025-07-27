@@ -7,7 +7,7 @@ const About = () => {
       initial={{ opacity: 0, y: 30 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.6, ease: 'easeOut' }}
-      className="py-30 px-4 w-full mx-auto flex flex-col dark:bg-gray-900 lg:flex-row items-center gap-12"
+      className="py-30 px-4 w-full mx-auto flex flex-col dark:bg-black lg:flex-row items-center gap-12"
     >
       {/* Layout Wrapper */}
       <motion.div className="w-full max-w-6xl mx-auto flex flex-col lg:flex-row items-center gap-12">
